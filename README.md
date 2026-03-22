@@ -113,7 +113,7 @@ Built a Snowflake dashboard with 3 tiles:
 
 ## Dashboard Preview
 
-![Sales Dashboard](screenshots/snowflake dashboard.png)
+![Sales Dashboard](screenshots/snowflake_dashboard.png)
 
 ---
 
